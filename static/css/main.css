@@ -15,8 +15,8 @@
 
 .top-section {
     position: relative;
-    padding: 20rem 0;
-    background-position: center -10rem;
+    padding: 10rem 0;
+    background-position: center;
     background-size: cover;
     height: 25rem;
 }
