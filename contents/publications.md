@@ -1,6 +1,12 @@
-
-- *<strong><strong>Li, S.</strong></strong>, Yang, X., Cao, A., Wang, C., Liu, Y., Liu, Y., & Niu, Q. (2023). Seismogram Transformer: A generic deep learning backbone network for multiple earthquake monitoring tasks. arXiv preprint arXiv:2310.01037.* [[Paper]](https://arxiv.org/abs/2310.01037) [[Code]](https://github.com/senli1073/SeisT)
-
-- *Cao, A., Liu, Y., Yang, X., <strong><strong>Li, S.</strong></strong>, Wang, C., Bai, X. & Liu, Y. (2022). Physical index and Data Fusion-Driven method for coal burst prediction in time sequence. Journal of China Coal Society.* [[Paper]](https://doi.org/10.13225/j.cnki.jccs.2022.0680)
-
-- *Yang, X., Yu, X., Zhang, C., <strong><strong>Li, S.</strong></strong>, & Niu, Q. (2021). MineGPS: battery-free localization base station for coal mine environment. IEEE Communications Letters.* [[Paper]](https://ieeexplore.ieee.org/abstract/document/9433550)
+- Online Air Quality Forecasting System for Tehran with coupled WRF-Machine Learning Algorithms (WRF-CNN-LSTM).  
+- Studies on air quality, estimate air pollutants emission (Emission Inventory, IVE-COPERT), Modeling pollutants dispersion (Coupled models WRF-SMOKE-CMAQ) and Source apportionment (High-Volume and Low-Volume Sampler, PMF) in Yazd province (Yazd to Ardakan line).  
+- Using remote sensing data to extract atmospheric information and air pollution in the atmosphere of Tehran (TROPOMI, MODIS and ECMWF-ERA5).
+- Calibration of Outdoor PM2.5 and PM10 Low-Cost Sensors with machine learning algorithm for Tehran and Yazd province.  
+- Evaluation of emission (flux) estimates of particulate matter from natural sources (GOCART-ECMWF-ERA5).  
+- Forecasting dust storm events with remote sensing data, WRF modeling, machine learning algorithm and HYSPLIT.  
+- Origin of Tehran unpleasant odor in the period of 2018 to 2020.  
+- Evaluation of the two-way interaction of Covid-19 disease and air pollution in Tehran.  
+- Environmental Impact Assessment of Charmshahr-Shoushtari road (WRF-IVE-AERMOD for pollutants and TNM for noise).  
+- Designing the air pollution monitoring network of Mahshahr industrial town in Khozestan province.  
+- Environmental impact assessment of Isfahan steel company.  
+- Identifying the sources of dust storm affecting the atmosphere of Tehran from 2018 to 2022.  
