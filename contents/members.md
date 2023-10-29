@@ -2,7 +2,7 @@
 <div class="row">
   <div class="column">
     <div class="card">
-      <img src="static/assets/img/photo.png" alt="Jane" style="width:100%">
+      <img src="static/assets/img/photo.png" alt="1" style="width:100%">
       <div class="container" align="center">
         <h2>Arman Abdipour</h2>
         <p class="title">CEO &amp; Founder</p>
@@ -15,9 +15,9 @@
 
   <div class="column">
     <div class="card">
-      <img src="static/assets/img/photo.png" alt="Mike" style="width:100%">
+      <img src="static/assets/img/photo.png" alt="2" style="width:100%">
       <div class="container" align="center">
-        <h2>Dr. Ensieh Sharafkhani</h2>
+        <h2>Ensieh Sharafkhani</h2>
         <p class="title">Lead Scientist</p>
         <a href="#"><i class="fa fa-envelope"></i></a>
       </div>
@@ -28,7 +28,7 @@
 
   <div class="column">
     <div class="card">
-      <img src="static/assets/img/photo.png" alt="John" style="width:100%">
+      <img src="static/assets/img/photo.png" alt="3" style="width:100%">
       <div class="container" align="center">
         <h2>Parhaam Abbassi</h2>
         <p class="title">ML Developer</p>
