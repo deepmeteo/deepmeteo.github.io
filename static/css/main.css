@@ -234,3 +234,15 @@ section .main-body{
   .card h2{
     font-size: 1.5rem;
   }
+
+  @media screen and (min-width: 601px) {
+    .banner-white h3 {
+        font-size: 2.8rem;
+    }
+  }
+
+  @media screen and (max-width: 600px) {
+    .banner-white h3 {
+        font-size: 1rem;
+    }
+  }
