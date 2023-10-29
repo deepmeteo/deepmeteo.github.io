@@ -6,7 +6,7 @@
       <div class="container" align="center">
         <h2>Arman Abdipour</h2>
         <p class="title">CEO &amp; Founder</p>
-        <a href="#"><i class="fa fa-envelope"></i></a>
+        <a href="arman.abdipour2@gmail.com"><i class="fa fa-envelope"></i></a>
       </div>
     </div>
   </div>
@@ -19,7 +19,7 @@
       <div class="container" align="center">
         <h2>Ensieh Sharafkhani</h2>
         <p class="title">Lead Scientist</p>
-        <a href="#"><i class="fa fa-envelope"></i></a>
+        <a href="e.sharafkhani2@gmail.com"><i class="fa fa-envelope"></i></a>
       </div>
     </div>
   </div>
