@@ -1,5 +1,6 @@
 - Online Air Quality Forecasting System for Tehran with coupled WRF-Machine Learning Algorithms (WRF-CNN-LSTM).  
 - Studies on air quality, estimate air pollutants emission (Emission Inventory, IVE-COPERT), Modeling pollutants dispersion (Coupled models WRF-SMOKE-CMAQ) and Source apportionment (High-Volume and Low-Volume Sampler, PMF) in Yazd province (Yazd to Ardakan line).  
+- Hybrid Machine Learning Algorithms for predicting wind speed, air temperature, dew point and relative humidity - Tehran
 - Using remote sensing data to extract atmospheric information and air pollution in the atmosphere of Tehran (TROPOMI, MODIS and ECMWF-ERA5).
 - Calibration of Outdoor PM2.5 and PM10 Low-Cost Sensors with machine learning algorithm for Tehran and Yazd province.  
 - Evaluation of emission (flux) estimates of particulate matter from natural sources (GOCART-ECMWF-ERA5).  
