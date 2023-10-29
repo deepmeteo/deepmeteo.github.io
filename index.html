@@ -22,7 +22,9 @@
     <!-- Core theme CSS (includes Bootstrap)-->
     <link type="text/css" href="static/css/styles.css" rel="stylesheet" />
     <link type="text/css" href="static/css/main.css" rel="stylesheet" />
-
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
 </head>
 
 <body id="page-top">
@@ -42,10 +44,13 @@
                         <a class="nav-link me-lg-3" href="#page-top">HOME</a>
                     </li>
                     <li class="nav-item">
-                        <a class="nav-link me-lg-3" href="#publications">PROJECTS</a>
+                        <a class="nav-link me-lg-3" href="#news">NEWS</a>
                     </li>
                     <li class="nav-item">
-                        <a class="nav-link me-lg-3" href="#awards">MEMBERS</a>
+                        <a class="nav-link me-lg-3" href="#projects">PROJECTS</a>
+                    </li>
+                    <li class="nav-item">
+                        <a class="nav-link me-lg-3" href="#members">MEMBERS</a>
                     </li>
 
                 </ul>
@@ -62,8 +67,9 @@
                         <h2 id="top-section-bg-text" class="text-white display-3 lh-1 mb-4 font-alt"></h2>
                     </div>
                     <div class="col-lg-4">
-                        <div class="user-photo photo"><img class="shadow"
-                                src="static/assets/img/photo.png"></div>
+                        <div class="user-photo photo">
+                            <!--img class="shadow" src="static/assets/img/photo.png"-->
+                        </div>
                     </div>
                 </div>
             </div>
@@ -76,8 +82,7 @@
     <section class="bg-gradient-primary-to-secondary-light mt5 md5" id="home">
         <div class="container px-5">
             <header>
-                <h2 id="home-subtitle"> </h2>
-                <!-- <span class="bi bi-list"></span> -->
+                <h2 id="home-subtitle"><i class="bi bi-house-door"></i>&nbsp;HOME</h2>
             </header>
             <div class="main-body" id="home-md"></div>
 
@@ -86,29 +91,38 @@
     </section>
     <!-- Home -->
 
-    <!-- Publications -->
-    <section class="bg-gradient-primary-to-secondary-gray mt5 md5" id="publications">
+    <!-- News -->
+    <section class="bg-gradient-primary-to-secondary-gray mt5 md5" id="news">
         <div class="container px-5">
             <header>
-                <h2 id="publications-subtitle"><i class="bi bi-file-text-fill"></i>&nbsp;PROJECTS</h2>
+                <h2 id="news-subtitle"><i class="bi bi-newspaper"></i>&nbsp;NEWS</h2>
             </header>
-            <div class="main-body" id="publications-md"></div>
-
+            <div class="main-body" id="news-md"></div>
         </div>
     </section>
-    <!-- Publications  -->
+    <!-- News  -->
 
-    <!-- Awards -->
-    <section class="bg-gradient-primary-to-secondary-light mt5 md5" id="awards">
+    <!-- Projects -->
+    <section class="bg-gradient-primary-to-secondary-light mt5 md5" id="projects">
         <div class="container px-5">
             <header>
-                <h2 id="awards-subtitle"><i class="bi bi-person-fill"></i>&nbsp;MEMBERS</h2>
+                <h2 id="projects-subtitle"><i class="bi bi-kanban"></i>&nbsp;PROJECTS</h2>
             </header>
-            <div class="main-body" id="awards-md"></div>
-
+            <div class="main-body" id="projects-md"></div>
         </div>
     </section>
-    <!-- Awards -->
+    <!-- Projects  -->
+
+    <!-- Members -->
+    <section class="bg-gradient-primary-to-secondary-gray mt5 md5" id="members">
+        <div class="container px-8">
+            <header>
+                <h2 id="members-subtitle"><i class="bi bi-person"></i>&nbsp;MEMBERS</h2>
+            </header>
+            <div class="main-body" id="members-md"></div>
+        </div>
+    </section>
+    <!-- Members -->
 
 
     <!-- Footer-->
