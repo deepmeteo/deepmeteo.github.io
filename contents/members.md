@@ -19,7 +19,7 @@
     <div class="card">
       <img src="static/assets/img/photo.png" alt="2" style="width:100%">
       <div class="container" align="center">
-        <h2>Ensieh Sharafkhani</h2>
+        <h2>Ensieh Sharafkhani</h2> <!--a href="ensieh-sharafkhani.html">Ensieh Sharafkhani</a-->
         <p class="title">Lead Scientist</p>
         <a href="mailto:e.sharafkhani2@gmail.com"><i class="fa fa-envelope"></i></a>
         <a href="https://www.linkedin.com/in/ensieh-sharafkhani-491336230/"><i class="fa fa-linkedin"></i></a>
