@@ -184,7 +184,14 @@ section .main-body{
     margin-bottom: 16px;
     padding: 0 96px; /*48px*/
   }
-  
+
+  .column1 {
+    float: left;
+    width: 50%;
+    margin-bottom: 16px;
+    padding: 0 5px; /*48px*/
+  }
+
   /* Display the columns below each other instead of side by side on small screens */
   @media screen and (max-width: 650px) {
     .column {
@@ -250,3 +257,25 @@ section .main-body{
   .badge {
     line-height: 1.1rem;
   }
+
+  .resume {
+    border-radius: 50%;
+    height: 360px;
+    width: 360px;
+    overflow: hidden;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+   }
+   
+   .hidden {
+    list-style-type: none;
+   }
+
+   .col-md-7-1 {
+    width: 100%;
+   }
+
+   .col-md-7-1 {
+    width: 100%;
+   }

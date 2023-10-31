@@ -1,4 +1,5 @@
 <p>
+<ul>
 <li align="justify">Online Air Quality Forecasting System for Tehran with coupled WRF-Machine Learning Algorithms (WRF-CNN-LSTM).</li>
 <li align="justify">Studies on air quality, estimate air pollutants emission (Emission Inventory, IVE-COPERT), Modeling pollutants dispersion (Coupled models WRF-SMOKE-CMAQ) and Source apportionment (High-Volume and Low-Volume Sampler, PMF) in Yazd province (Yazd to Ardakan line).</li>
 <li align="justify">Hybrid Machine Learning Algorithms for predicting wind speed, air temperature, dew point and relative humidity - Tehran</li>
@@ -12,4 +13,5 @@
 <li align="justify">Designing the air pollution monitoring network of Mahshahr industrial town in Khozestan province.</li>
 <li align="justify">Environmental impact assessment of Isfahan steel company.</li>
 <li align="justify">Identifying the sources of dust storm affecting the atmosphere of Tehran from 2018 to 2022.</li>
+<ul>
 </p>
