@@ -1,1 +1,1 @@
-* <b><em>November 20, 2023 ></em></b> Version 2.0 of **"Air Quality Forecasting System for Tehran with coupled WRF-Machine Learning Algorithms (DeepAQFS)"** will be released.
+* <b><em>November 20, 2023 ></em></b> Version 2.0 of *"Air Quality Forecasting System for Tehran with coupled WRF-Machine Learning Algorithms (DeepAQFS)"* will be released.
