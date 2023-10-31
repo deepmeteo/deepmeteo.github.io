@@ -7,6 +7,7 @@
         <h2>Arman Abdipour</h2>
         <p class="title">CEO &amp; Founder</p>
         <a href="mailto:arman.abdipour2@gmail.com"><i class="fa fa-envelope"></i></a>
+        <a href="https://www.linkedin.com/in/arman-abdipour-8a8422147/"><i class="fa fa-linkedin"></i></a>
       </div>
     </div>
   </div>
