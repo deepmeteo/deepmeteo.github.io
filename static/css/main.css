@@ -246,3 +246,7 @@ section .main-body{
         font-size: 2rem;
     }
   }
+
+  .badge {
+    line-height: 1.1rem;
+  }
