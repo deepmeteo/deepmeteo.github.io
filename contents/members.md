@@ -41,3 +41,17 @@
     </div>
   </div>
 </div>
+
+<div class="row">
+  <div class="column">
+    <div class="card">
+      <img src="static/assets/img/photo.png" alt="1" style="width:100%">
+      <div class="container" align="center">
+        <h2>Saeed Tavakhsh</h2>
+        <p class="title">Numerical Modeling Expert</p>
+        <!--a href="mailto:arman.abdipour2@gmail.com"><i class="fa fa-envelope"></i></a-->
+        <a href="https://www.linkedin.com/in/saeed-tavakhsh-740b80128/"><i class="fa fa-linkedin"></i></a>
+      </div>
+    </div>
+  </div>
+</div>
