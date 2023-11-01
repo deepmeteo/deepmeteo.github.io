@@ -219,7 +219,7 @@ section .main-body{
   
   /* Some left and right padding inside the container */
   .container {
-    padding: 16px 16px;
+    padding: 22px 16px;
   }
   
   /* Clear floats */
