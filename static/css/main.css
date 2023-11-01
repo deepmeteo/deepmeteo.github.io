@@ -21,6 +21,12 @@
     height: 25rem;
 }
 
+.top-section-mem {
+  position: relative;
+  padding: 4rem 0;
+  height: 2rem;
+}
+
 .top-section h2 {
     font-weight: 400;
 }
@@ -199,6 +205,11 @@ section .main-body{
       padding: 0 10px;
       display: block;
     }
+    .column1 {
+      width: 100%;
+      padding: 0 10px;
+      display: block;
+    }
   }
   
   /* Add some shadows to create a card effect */
@@ -241,23 +252,7 @@ section .main-body{
   .card h2{
     font-size: 1.5rem;
   }
-
-  @media screen and (min-width: 601px) {
-    .banner-white h3 {
-        font-size: 2.8rem;
-    }
-  }
-
-  @media screen and (max-width: 600px) {
-    .banner-white h3 {
-        font-size: 2rem;
-    }
-  }
-
-  .badge {
-    line-height: 1.1rem;
-  }
-
+  
   .resume {
     border-radius: 50%;
     height: 360px;
@@ -279,3 +274,23 @@ section .main-body{
    .col-md-7-1 {
     width: 100%;
    }
+  
+  @media screen and (min-width: 651px) {
+    .banner-white h3 {
+        font-size: 2.8rem;
+    }
+  }
+
+  @media screen and (max-width: 650px) {
+    .banner-white h3 {
+        font-size: 2rem;
+    }
+    .resume {
+      height: 120px;
+      width: 120px;
+    }
+  }
+
+  .badge {
+    line-height: 1.1rem;
+  }
