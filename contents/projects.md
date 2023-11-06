@@ -8,7 +8,7 @@
 <li align="justify">Evaluation of emission (flux) estimates of particulate matter from natural sources (GOCART-ECMWF-ERA5).</li>
 <li align="justify">Forecasting dust storm events with remote sensing data, WRF modeling, machine learning algorithm and HYSPLIT.</li>
 <li align="justify">Origin of Tehran unpleasant odor in the period of 2018 to 2020.</li>
-<li align="justify">Evaluation of the two-way interaction of Covid-19 disease and air pollution in Tehran.</li>
+<li align="justify">Evaluation of the two-way interaction of COVID-19 disease and air pollution in Tehran.</li>
 <li align="justify">Environmental Impact Assessment of Charmshahr-Shoushtari road (WRF-IVE-AERMOD for pollutants and TNM for noise).</li>
 <li align="justify">Designing the air pollution monitoring network of Mahshahr industrial town in Khozestan province.</li>
 <li align="justify">Environmental impact assessment of Isfahan steel company.</li>
