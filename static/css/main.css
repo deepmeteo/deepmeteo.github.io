@@ -302,3 +302,10 @@ section .main-body{
   .badge {
     line-height: 1.1rem;
   }
+
+  @media screen and (min-width: 651px) and (max-width: 1439px){
+    .resume {
+      height: 240px;
+      width: 240px;
+    }
+  }
