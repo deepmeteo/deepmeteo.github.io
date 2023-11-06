@@ -197,7 +197,6 @@ section .main-body{
     margin-bottom: 16px;
     padding: 0 5px; /*48px*/
   }
-
   /* Display the columns below each other instead of side by side on small screens */
   @media screen and (max-width: 650px) {
     .column {
@@ -278,6 +277,9 @@ section .main-body{
   @media screen and (min-width: 651px) {
     .banner-white h3 {
         font-size: 2.8rem;
+    }
+    .title{
+      font-size: 1.1rem;
     }
   }
 
