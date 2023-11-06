@@ -309,3 +309,9 @@ section .main-body{
       width: 240px;
     }
   }
+
+  .news-date{
+    font-family: monospace;
+    background-color: #FFFF00;
+    font-weight: bold;
+  }
