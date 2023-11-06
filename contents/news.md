@@ -1,7 +1,7 @@
 <p>
     <ul>
-        <li align="justify"><b class="news-date">[November 20, 2023]</b> Version 2.0 of "Air Quality Forecasting System for Tehran with coupled WRF-Machine Learning Algorithms (DeepAQFS)" will be released.</li>
-        <li align="justify"><b class="news-date">[November 05, 2023]</b> Access to the data of the air pollution monitoring stations in Tehran was removed without any explanation from the government.</li>
+        <li align="justify"><b class="news-date">[20 November 2023]</b> Version 2.0 of "Air Quality Forecasting System for Tehran with coupled WRF-Machine Learning Algorithms (DeepAQFS)" will be released.</li>
+        <li align="justify"><b class="news-date">[05 November 2023]</b> Access to the data of the air pollution monitoring stations in Tehran was removed without any explanation from the government.</li>
     <ul>
 </p>
 
