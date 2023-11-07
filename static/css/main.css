@@ -315,3 +315,7 @@ section .main-body{
     background-color: #FFFF00;
     font-weight: bold;
   }
+
+  html {
+    scroll-behavior: smooth;
+  }
