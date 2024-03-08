@@ -10,6 +10,6 @@ Atmospheric science is an interdisciplinary field of study that integrates diffe
 <span class="rounded-pill badge bg-primary mt-4">Inverse Modeling</span>
 <span class="rounded-pill badge bg-primary mt-4">Backward Modeling</span>
 <span class="rounded-pill badge bg-primary mt-4">Source Apportionment</span>
-<span class="rounded-pill badge bg-primary mt-4">Low-Cost Sensors</span>
+<!--span class="rounded-pill badge bg-primary mt-4">Low-Cost Sensors</span-->
 <span class="rounded-pill badge bg-primary mt-4">Predictive Emissions Monitoring System</span>
-<span class="rounded-pill badge bg-primary mt-4">Remote Sensing</span>
+<!--span class="rounded-pill badge bg-primary mt-4">Remote Sensing</span-->
